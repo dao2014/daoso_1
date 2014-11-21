@@ -5,7 +5,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.widget.RadioGroup;
 
-import java.util.ArrayList;
+import java.util.ArrayList;   
 import java.util.List;
 
 public class MainActivity extends FragmentActivity {
